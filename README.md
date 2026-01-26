@@ -9,6 +9,8 @@
 ## Description
 This project presents the design and implementation of a microsystem based on the 8086 microprocessor. The system includes a central unit, EPROM and SRAM memories, serial and parallel interfaces, mini-keyboard, LEDs, 7-segment display, and LCD module, as well as programs for its configuration and operation.
 
+![SCH Schema Hardware](docs/SCH_Schema_Hardware_2025-01-07.pdf)
+
 ## Microsystem Structure
 - Central unit with 8086 microprocessor
 - 128 KB EPROM memory, using 27C512 circuits
